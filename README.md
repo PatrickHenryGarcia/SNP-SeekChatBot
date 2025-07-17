@@ -1,6 +1,6 @@
 # SNP-Seek Chat Assistant
 
-This project is a web-based chatbot that helps users navigate the SNP-Seek database using natural language questions. Instead of searching through long user guides or FAQs, users can simply ask questions like “How do I filter SNPs by chromosome?” and receive relevant answers pulled directly from official documentation and scientific papers.
+This project is a web-based chatbot that helps users navigate the SNP-Seek database using natural language questions. Instead of searching through long user guides or FAQs, users can simply ask questions like “How do I filter SNPs by chromosome?” and receive a response based on the files uploaded on the vector
 
 The chatbot was built using OpenAI’s Assistant API and Streamlit. It uses uploaded files (e.g., SNP-Seek FAQs, user guides, and reference papers) to provide document-based responses. This project was created to make it easier for students and researchers to interact with bioinformatics tools.
 
