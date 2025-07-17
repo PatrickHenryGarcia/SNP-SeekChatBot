@@ -42,10 +42,11 @@ The chatbot was built using OpenAI’s Assistant API and Streamlit. It uses uplo
    ```
 
 5. Ask your questions and receive answers with file citations.
+6. In case you want to try a new assistant, use a tempereature = 0 and upload the files you want in the RAG part of the openAI assistant in the playground. 
 
 ## Purpose
 
-This project was developed as part of a research presentation to explore how AI can be used to support bioinformatics platforms like SNP-Seek. It aims to make genomic tools more accessible by improving user support through AI-enhanced interaction.
+This mini special project was developed as part of a research presentation to explore how AI can be used to support bioinformatics platforms like SNP-Seek. It aims to make genomic tools more accessible by improving user support through AI-enhanced interaction.
 
 ## Author
 
